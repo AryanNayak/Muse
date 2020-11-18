@@ -7,7 +7,7 @@
 <img  alt="GIF" src="https://media.giphy.com/media/1ZDDyAaAA82ywDiyKs/giphy.gif" />
 
 
-### Timeline of projects:
+### Project timeline:
 
 
 - [Basic Chatbot](https://github.com/AryanNayak/Muse/blob/main/basicbot.ipynb)
