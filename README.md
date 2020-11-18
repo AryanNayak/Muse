@@ -10,9 +10,9 @@
 ### Timeline of projects:
 
 
-- [Basic Chatbot]()
+- [Basic Chatbot](https://github.com/AryanNayak/Muse/blob/main/basicbot.ipynb)
 
-- [Generative Conversational Chatbot]()
+- [Generative Conversational Chatbot](https://github.com/AryanNayak/Muse/blob/main/generative_cb.ipynb)
   
 - Emotional Chatbot
 
