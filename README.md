@@ -12,7 +12,8 @@
 
 - [Basic Chatbot](https://github.com/AryanNayak/Muse/blob/main/basicbot.ipynb)
 
-- [Generative Conversational Chatbot](https://github.com/AryanNayak/Muse/blob/main/generative_cb.ipynb)
+- [Generative Conversational Chatbot](https://github.com/AryanNayak/Muse/blob/main/generative_cb.ipynb) 
+   ( You can read more about the model [here.](https://github.com/AryanNayak/Muse/blob/main/Conversational%20chatbot/readme.md))
   
 - Emotional Chatbot
 
